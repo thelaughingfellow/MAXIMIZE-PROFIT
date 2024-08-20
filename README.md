@@ -44,6 +44,6 @@ As per the results it can be concluded that:
 - Tensorflow
 - Sci-kit Learn
 - Google collabratory
-- 
+
 [Back To The Top](#read-me-template)
 
