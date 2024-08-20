@@ -44,11 +44,6 @@ As per the results it can be concluded that:
 - Tensorflow
 - Sci-kit Learn
 - Google collabratory
-
-
-## Author Info
-
-- E-mail - [shubhangini2203@gmail.com]
-- Website - [Shubhangini](https://62988a84130dd177a6a2332b--stately-crostata-24e520.netlify.app/)
-
+- 
 [Back To The Top](#read-me-template)
+
