@@ -7,7 +7,6 @@
 
 - [Description](#description)
 - [Technologies used](#technologies)
-- [Contact-info](#author-info)
 
 ---
 
